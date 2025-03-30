@@ -489,6 +489,19 @@ button:active {
     z-index: 1;
 }
 
+.benefit-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.benefit-content {
+    margin-bottom: 15px;
+}
+
+.benefit-content p {
+    margin-bottom: 8px;
+}
+
 footer {
     background-color: #f0f0f0;
     padding: 30px 20px;
